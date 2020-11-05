@@ -1,0 +1,30 @@
+.fa {
+    justify-self: center;
+    margin-left: 115px;
+}
+.icon-name{
+    justify-self: center;
+    margin-left: 100px;
+    font-family: 'Great Vibes',cursive;
+}
+.icon-text{
+    font-family: 'Abel', sans-serif;
+}
+.icon-button{
+    font-family: 'Abel', sans-serif;
+    justify-self: center;
+    margin-left: 50px;
+   
+    
+}
+.icon-button button{
+    background-color:#5FB9AD;
+}
+
+.cardData{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+
+    letter-spacing: 4px;
+    padding-top: 10%;
+}

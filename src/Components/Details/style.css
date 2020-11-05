@@ -1,0 +1,38 @@
+.details{
+    background-color:#DCDCDC;}
+.details-img{
+
+    max-width: 100%;
+    
+}
+.details-img img{
+    width: 100%;
+    float: right;
+
+}
+.details-data h6{
+    font-family: 'Hind Madurai', sans-serif;
+
+}
+.details-data span{
+    font-family: 'Great Vibes',cursive;
+    font-size: 20px;
+}
+.details-data h5{
+    font-family: 'Oswald', sans-serif;
+}
+.details-data{
+    top:60px
+}
+@media screen and (min-width: 320px) and (max-width:425px) {
+    
+    .details-data{
+        top:0px;
+    }
+  }
+  @media screen and (max-width: 425px) and(max-width:768px) {
+    
+    .details-data{
+        top:0px;
+    }
+  }
